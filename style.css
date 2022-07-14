@@ -1,0 +1,45 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  color: black;
+}
+
+body{
+ 
+}
+
+html, head {
+  height: 100%;
+  width: 100%;
+  color: black;
+  font-family: papyrus;
+}
+h1{
+  text-align: center;
+  color: red;
+    font-family: papyrus;
+}
+h2{
+  color: black;
+    font-family: papyrus;
+}
+h3{
+  color: red;
+    font-family: papyrus;
+}
+
+p.box{
+  margin: 20px;
+  padding: 50px;
+  width: 300px;
+  border: 20px solid royalblue; 
+  text-align: center; 
+  
+}
+p{
+  font-weight: 700;
+  font-size: 50px;
+   color: red;
+  font-family: papyrus;
+  
+}
